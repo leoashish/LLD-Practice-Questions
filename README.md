@@ -6,3 +6,5 @@ Here I am writing all the LLD questions that practising in Java.
 3. Vending Machine (Python)
 4. Elevator System (Python)
 5. Pub-Sub System (Python)
+### In process:
+6. Grocery System (Python)
